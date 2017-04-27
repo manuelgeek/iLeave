@@ -20,7 +20,7 @@ $MySQLi_CON->close();
 <!--*************PHP PROFILE PHOTO******-->
 <?php
 
-include_once 'db.php';
+//include_once 'db.php';
 
 if ($account['photo']=="") {
 	$msg4 = "<img src='../img/user.png' style='border-radius:6px; border:8px solid #fff; padding:0px;' height=150px />";

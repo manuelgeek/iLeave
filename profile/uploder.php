@@ -100,4 +100,3 @@ $account = mysqli_fetch_array($account1);
 ?>
 
 <!--*************PHP PROFILE PHOTO******-->
-<?php
